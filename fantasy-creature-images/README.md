@@ -1,4 +1,4 @@
-# Fantasy Creature Generation
+# Fantasy Creature Images
 
 * **Type:** Image Generation
 * **Tested With:**
