@@ -34,18 +34,17 @@ Each sample includes the image and its generated alt text. Click on the images t
 
 [![Neon Kobe Spires](https://snugug.photography/images/kobe-fuji-tokyo-2025/cuts/DSCF7820.2000.webp)](https://snugug.photography/kobe-fuji-tokyo-2025/neon-kobe-spires)
 
-```
+
 The iconic Kobe Port Tower, a brightly illuminated hyperboloid lattice structure, glows vibrantly in purple and blue against a deep indigo night sky. To its right, the distinctive, angular white lattice framework of the Kobe Maritime Museum gleams with cool blue light. In the foreground, a wide, paved plaza reveals several indistinct, blurred figures, a result of the photograph's long exposure. Behind these architectural landmarks, numerous high-rise buildings display warm yellow and white window lights, adding to the urban evening scene.
-```
+
 
 [![Orange Gaze](https://snugug.photography/images/kobe-fuji-tokyo-2025/cuts/DSCF7893.2000.webp)](https://snugug.photography/kobe-fuji-tokyo-2025/orange-gaze)
 
-```
+
 A small, white-faced owl with prominent gray ear tufts stares directly forward, its large, intense orange eyes captivating the viewer. Its plumage displays a sophisticated gradient of finely textured white and various shades of gray, creating intricate patterns across its head and body. A subtle yellow beak is partially visible amidst its facial feathers. The background is rendered with an extremely shallow depth of field, producing a soft, ethereal bokeh of blurred green foliage, cool blue hues, and hints of muted red.
-```
+
 
 [![Spectral, Eternal Fuji](https://snugug.photography/images/kobe-fuji-tokyo-2025/cuts/DSCF8215.2000.webp)](https://snugug.photography/kobe-fuji-tokyo-2025/spectral-eternal-fuji)
 
-```
+
 A stark monochromatic infrared photograph captures the iconic Mount Fuji, its upper slopes and distinct conical peak blanketed in luminous white snow. Below the majestic mountain, a dense, dark band of evergreen trees stretches across the mid-ground. In the foreground, a tranquil body of water reflects sparse reeds and dark, textured ground cover, all rendered in shades of grey. The clear sky overhead is a uniform light grey, contrasting with the bright, almost glowing natural elements below.
-```
